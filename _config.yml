@@ -1,0 +1,24 @@
+name: firstnamegreatest
+layout_spectrum: 0.12601235617902085
+typography_spectrum: 0.915881033137578
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.2160998370436955
+  lightness: 0.7314024135862376
+  saturation: 0.5052315850879767
+  rhythmicContrast: 0.4351531947502365
+title: love
+description: zzz
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
